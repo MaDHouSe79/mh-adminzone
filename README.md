@@ -5,6 +5,9 @@
 ![foto2](https://www.madirc.nl/fivem/adminzone2.png)
 ![foto2](https://www.madirc.nl/fivem/adminzone3.png)
 
+## 💪 Dependencies
+- ✅ [qb-core](https://github.com/qbcore-framework/qb-core)
+
 ## Admin Zones
 This allows users of a specific group to set an "Temporary Admin Zone".  
 These zones automatically:
