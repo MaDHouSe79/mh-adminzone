@@ -22,6 +22,12 @@ Upon removing the zones, the resource:
 - Notifies players of zone clear
 - Removes the speedlimit
 
+
+## Install
+- place the folder `qb-adminzone` in `resources/[qb]`
+- restart your server
+
+
 ## Commands
 - `/setzone` - Enables the admin zone around the admin
 - `/clearzone` - Clears the admin zone of the admin.
