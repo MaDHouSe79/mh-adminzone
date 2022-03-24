@@ -35,3 +35,8 @@ Upon removing the zones, the resource:
 ## Or use keybinds to quickly create and clear a admin zone
 - add `setzone` to F9
 - add `clerzone` on F10
+
+
+## 🙈 Youtube & Discord
+- [Youtube](https://www.youtube.com/channel/UC6431XeIqHjswry5OYtim0A)
+- [Discord](https://discord.gg/cEMSeE9dgS)
