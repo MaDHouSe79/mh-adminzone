@@ -73,7 +73,7 @@ RegisterNetEvent('adminzone:sendCoords')
 AddEventHandler('adminzone:sendCoords', function(command, coords)
 	local src = source
 	local Player = QBCore.Functions.GetPlayer(src)
-	if IsPlayerAceAllowed(src, 'admin') or IsPlayerAceAllowed(src, 'god') or IsPlayerAceAllowed(id, 'command') then
+	if IsPlayerAceAllowed(src, 'admin') or IsPlayerAceAllowed(src, 'god') or IsPlayerAceAllowed(src, 'command') then
 	    if command == 'setzone' then
 	        zones[#zones+1] = {license = Player.PlayerData.license, coord = coords}
 		TriggerClientEvent("adminzone:UpdateZones", -1, zones)
